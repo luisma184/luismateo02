@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background: pink;
+    height: 300px;
+}
+article{
+width: 100%;
+}
+img{
+    height: 370px;
+    width: 400px;
+    margin: 3%;
+   }
+   li{
+    border-bottom: solid 1px rgb(21,154,95);
+    margin: 1%;
+    }
+   ul{
+       margin-left: 29%
+   }
+   label{
+       margin-left: 20%;
+       color: blue;
+   }
+   table{
+       border:solid 1px grey
+   }
+   tr{
+    border:solid 1px rgb(0, 0, 0)
+   }
+   td{
+    border:solid 1px rgb(190, 190, 190);
+    margin: 4%;
+    width: 2%;
+   }
+   #matepo{
+       height: 250px;
+       width: 10%;
+   }
+   footer{
+    height: 300px;
+    background:rgb(185, 76, 76)
+   }
