@@ -14,26 +14,22 @@ img{
     width: 400px;
     margin: 3%;
    }
-   li{
-    border-bottom: solid 1px rgb(21,154,95);
-    margin: 1%;
+   ol{
+       margin: 1%;
+    margin-left: 15%;
     }
-   ul{
-       margin-left: 29%
-   }
-   label{
-       margin-left: 20%;
-       color: blue;
-   }
-   table{
-       border:solid 1px grey
-   }
+    button{
+        margin: 1%;
+        margin-right: 12%;
+        padding: 20px;
+        border-bottom: 1%;
+    }
    tr{
     border:solid 1px rgb(0, 0, 0)
    }
    td{
-    border:solid 1px rgb(190, 190, 190);
-    margin: 4%;
+    border:solid 1px rgb(204, 155, 155);
+    margin-bottom: 4%;
     width: 2%;
    }
    #matepo{
